@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tkl_conn")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_conn.kicad_sym")(options "")(descr ""))
+  (lib (name "tkl_fpga")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_fpga.kicad_sym")(options "")(descr ""))
+  (lib (name "tkl_lvl_translator")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_lvl_translator.kicad_sym")(options "")(descr ""))
+  (lib (name "tkl_memory")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_memory.kicad_sym")(options "")(descr ""))
+  (lib (name "tkl_misc")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_misc.kicad_sym")(options "")(descr ""))
+  (lib (name "tkl_power")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_power.kicad_sym")(options "")(descr ""))
+  (lib (name "tkl_usb")(type "KiCad")(uri "${KIPRJMOD}/tkl-kicad-lib/tkl_usb.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KICAD_SAMAC_SYS_DIR}/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
