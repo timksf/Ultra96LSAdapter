@@ -1,0 +1,3 @@
+[submodule "tkl-kicad-lib"]
+	path = tkl-kicad-lib
+	url = https://github.com/timksf/tkl-kicad-lib.git
